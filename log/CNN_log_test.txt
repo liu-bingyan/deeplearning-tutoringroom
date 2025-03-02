@@ -1,0 +1,20 @@
+at epoch 1
+Precision: 0.9612
+Recall: 0.9612
+F1 Score: 0.9612
+at epoch 2
+Precision: 0.9638
+Recall: 0.9631
+F1 Score: 0.9631
+at epoch 3
+Precision: 0.9745
+Recall: 0.9740
+F1 Score: 0.9740
+at epoch 4
+Precision: 0.9733
+Recall: 0.9728
+F1 Score: 0.9729
+at epoch 5
+Precision: 0.9744
+Recall: 0.9743
+F1 Score: 0.9743
