@@ -1,0 +1,11 @@
+datasets
+transformers==4.46.2
+absl-py
+nltk
+rouge-score
+evaluate
+bert_score
+peft
+tf-keras
+torch
+huggingface_hub 
